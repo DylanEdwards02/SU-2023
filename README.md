@@ -35,7 +35,7 @@
     </b>
 </h1>
 
-<style>
+<style type="text/css" rel="stylesheet">
         .container {
             display: grid;
             align-items: center; 

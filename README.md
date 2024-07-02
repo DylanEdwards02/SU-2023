@@ -39,15 +39,14 @@
 <p style="text-align: center; scale:0.75;">
 <img src="https://cdn.discordapp.com/attachments/332986802703040522/1257544524167647314/FULLBOT_v1.png?ex=6684cb1a&is=6683799a&hm=76c7b100bd4e5e3300d590a8f89aa9adc317bb8d1b765824b116e450f0d8d74f&">
 </p>
-<p style="text-align: justify; font-size:17px; font-weight:bold;"><b>Specs:</b></p>
-        <ul>
-            <li>Drivetrain: 6 Motor, 360 RPM </li>
-            <li>Intake: 1 Motor Initial roller 1600 RPM/ Secondary roller 800</li>
-            <li>Indexer: 1 Motor, 1142 RPM</li>
-            <li>Roller: 1 Motor, 200 RPM (power shared with indexer)
-            <li>Flywheel: 2 Motor 3600 RPM</li>
-            <li>Angle Changer: 1 Piston, 2" stroke</li>
-            <li>Magazine: 1 Piston, 2" stroke</li>
-            <li>Endgame: 2 Piston, 0.5" stroke</li>
-        </ul>
-</li>
+<p style="text-align: justify; font-size:17px; font-weight:bold;">Specs:</p>
+    <ul>
+        <li>Drivetrain: 6 Motor, 360 RPM </li>
+        <li>Intake: 1 Motor Initial roller 1600 RPM/Secondary roller 800 RPM</li>
+        <li>Indexer: 1 Motor, 1142 RPM</li>
+        <li>Roller: 1 Motor, 200 RPM (power shared with indexer)
+        <li>Flywheel: 2 Motor 3600 RPM/Kicker wheel 5400 RPM</li>
+        <li>Angle Changer: 1 Piston, 2" stroke</li>
+        <li>Endgame: 2 Piston, 0.5" stroke</li>
+    </ul>
+</li

@@ -10,7 +10,7 @@
 
 <p style="text-align: justify; font-size:17px;">Spin-Up is a competitive game played on a 12' by 12' field, featuring two teams, each consisting of two robots. One robot must fit within a 15" by 15" by 15" space, and the other within an 18" by 18" by 18" space. The objective is to score more points than the opposing team within the allotted time: a 45-second autonomous period followed by a 1:15-minute driver-controlled period.</p>
         
-<h2 style="text-align: justify; font-size:17px; font-weight:bold;">Scoring System:</h2>
+<p style="text-align: justify; font-size:17px; font-weight:bold;">Scoring System:</p>
         <ul>
             <li style="text-align: justify; font-size:17px;">Disc Scoring:
                 <ul>

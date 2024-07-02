@@ -1,4 +1,5 @@
-<h1 style="text-align: center; font-size:30px;">
+<!DOCTYPE html>
+<h1 style="text-align: center; font-size:50px;">
     <b>Vex Spin-Up | 2021-2022 
     </b>
 </h1>
@@ -30,34 +31,23 @@
         </ul>
 
 <br>
-<h1 style="text-align: center; font-size:30px;">
+<h1 style="text-align: center; font-size:50px;">
     <b>ILLINI 15" Robot
     </b>
 </h1>
-
-<style type="text/css" rel="stylesheet">
-        .container {
-            display: grid;
-            align-items: center; 
-            grid-template-columns: 1fr 1fr;
-            border: 1px solid;
-            column-gap: 1px;
-        }
-
-        img {
-            max-width: 75%;
-            max-height: 75%;
-            border: 1px solid;
-        }
-
-        .text {
-            text-align: center;
-            border: 1px solid;
-            font-size: 20px;
-        }
-</style>
 <br>
-<div class="container">
-        <img src="disc_v1.png">
-        <div class="text">Full Robot</div>
-</div>
+<p style="text-align: center; scale:0.75;">
+<img src="https://cdn.discordapp.com/attachments/332986802703040522/1257544524167647314/FULLBOT_v1.png?ex=6684cb1a&is=6683799a&hm=76c7b100bd4e5e3300d590a8f89aa9adc317bb8d1b765824b116e450f0d8d74f&">
+</p>
+<p style="text-align: justify; font-size:17px; font-weight:bold;"><b>Specs:</b></p>
+        <ul>
+            <li>Drivetrain: 6 Motor, 360 RPM </li>
+            <li>Intake: 1 Motor Initial roller 1600 RPM/ Secondary roller 800</li>
+            <li>Indexer: 1 Motor, 1142 RPM</li>
+            <li>Roller: 1 Motor, 200 RPM (power shared with indexer)
+            <li>Flywheel: 2 Motor 3600 RPM</li>
+            <li>Angle Changer: 1 Piston, 2" stroke</li>
+            <li>Magazine: 1 Piston, 2" stroke</li>
+            <li>Endgame: 2 Piston, 0.5" stroke</li>
+        </ul>
+</li>

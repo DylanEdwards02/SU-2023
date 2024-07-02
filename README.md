@@ -55,7 +55,7 @@
             border: 1px solid;
             font-size: 20px;
         }
-    </style>
+</style>
 <br>
 <div class="container">
         <img src="disc_v1.png">
